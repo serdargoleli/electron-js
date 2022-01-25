@@ -1,0 +1,24 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serdargoleli/electron-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serdargoleli/electron-js/issues"
+  },
+  "homepage": "https://github.com/serdargoleli/electron-js#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "electron": "^16.0.7"
+  }
+}
